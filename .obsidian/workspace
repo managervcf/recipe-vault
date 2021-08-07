@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b2483573f02f1d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec0cacf8b6c907f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Słodkie/Sernik z marakują.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7ef09cbd617420e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0475270576a551d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f88f4f64eb2e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb2a96b39260e9d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#burger",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b34bf6869fb88e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3cd4254e3612eff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9734081cce291bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Słodkie/Sernik z marakują.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ec0cacf8b6c907f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Słone/Tosty z awokado i jajkiem.md",
+    "Słone/Ruskie krokiety.md",
+    "Słone/Meksykańskie bataty.md",
+    "Słone/Medaliony z batatów z guacamole i krewetką.md",
+    "Słone/Komosa w pomidorach z fetą.md",
+    "Fasolka szparagowa z brzoskwiniami i pistacjową kruszonką.md",
+    "Słodkie/Naleśniki.md",
+    "Słodkie/Szarlotka.md",
+    "Słodkie/Sernik z lemon curd.md"
+  ]
+}
