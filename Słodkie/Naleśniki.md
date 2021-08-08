@@ -18,4 +18,9 @@
 5.  Wylewamy chochlę ciasta i smażymy naleśniki po ok. 2-3 minuty z każdej strony, aż będą odpowiednio rumiane.
 6.  Naleśniki odsączamy z tłuszczu przy pomocy ręcznika papierowego.
 
+---
+
+Dobre z:
+- [[Krem z nerkowców]] i berries.
+
 #naleśniki 

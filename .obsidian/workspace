@@ -7,11 +7,8 @@
         "id": "3ec0cacf8b6c907f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Słodkie/Sernik z marakują.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#burger",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b34bf6869fb88e5",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słodkie/Sernik z marakują.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +85,15 @@
   },
   "active": "3ec0cacf8b6c907f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Słone/Tosty z awokado i jajkiem.md",
-    "Słone/Ruskie krokiety.md",
     "Słone/Meksykańskie bataty.md",
-    "Słone/Medaliony z batatów z guacamole i krewetką.md",
-    "Słone/Komosa w pomidorach z fetą.md",
-    "Fasolka szparagowa z brzoskwiniami i pistacjową kruszonką.md",
+    "Słodkie/Krem z nerkowców.md",
+    "Słodkie/Krem daktylowy.md",
+    "Słodkie/Omlety.md",
+    "Krem z nerkowców.md",
     "Słodkie/Naleśniki.md",
-    "Słodkie/Szarlotka.md",
-    "Słodkie/Sernik z lemon curd.md"
+    "Untitled.md",
+    "Słone/Ruskie krokiety.md",
+    "Słone/Medaliony z batatów z guacamole i krewetką.md"
   ]
 }
