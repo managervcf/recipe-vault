@@ -41,4 +41,4 @@ Porada: Przed umieszczeniem pasztetu w piekarniku możesz polecam posypać go od
 
 Po wyłączeniu możesz od razu wyjąć formę z piekarnika, jednak pasztetu nie wyjmuj z formy póki nie przestygnie. Pasztet z ciecierzycy należy po przestudzeniu umieścić w lodówce do całkowitego schłodzenia i dopiero podawać. Na ciepło może być jeszcze lekko za luźny. Pasztecik powinno się śmiało kroić na kawałki, jednak będzie też na tyle miękki, że da radę "posmarować" nim kanapki. 
 
-#spread #pasta #kanapki #święta #ciecierzyca #tahini #pieczarki 
+#spread #pasta #kanapki #święta #ciecierzyca #tahini #pieczarki #pasztet

@@ -9,4 +9,4 @@
 - balsamic
 - sałata
 
-#halloumi #ser #burger #pieczywo #grill #kanapki #awokado #burak #pesto
+#halloumi #burger #grill #kanapki #awokado #burak #pesto
