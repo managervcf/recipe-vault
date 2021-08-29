@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec0cacf8b6c907f",
+        "id": "ec041b0009b6e6ba",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Słone/Bułeczki z kapustą i grzybami.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b34bf6869fb88e5",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Słone/Bułeczki z kapustą i grzybami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ec0cacf8b6c907f",
+  "active": "ec041b0009b6e6ba",
   "lastOpenFiles": [
-    "Słodkie/Blondie z ciecierzycy.md",
+    "Słone/Bułeczki z kapustą i grzybami.md",
+    "Słone/Młode ziemniaki z bobem i masłem orzechowym.md",
+    "'Pączki' z twarogiem pieczone, bez drożdży.md",
     "Untitled.md",
-    "Słone/Sambal.md",
-    "Burgery z rukolą i serem pleśniowym.md",
-    "Słone/Halloumi burger.md",
-    "Hummus.md",
-    "Twarożek z nerkowców.md",
-    "Pasta ze słonecznika.md",
-    "Pasta ze słonecznika i suszonych pomidorów.md",
-    "Wegańska pasta ze słonecznika.md"
+    "Słone/Burger z halloumi.md",
+    "Placuszki z owocami.md",
+    "Słodkie/Chałka.md",
+    "Słodkie/Blondie z ciecierzycy.md",
+    "Słone/Burgery z rukolą i serem pleśniowym.md",
+    "Cloud bread.md"
   ]
 }

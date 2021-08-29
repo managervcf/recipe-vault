@@ -1,4 +1,5 @@
-**Klasyczne naleśniki** ok. 10 sztuk
+## Burczymiwbrzuchu 
+Klasyczne naleśniki ok. 10 sztuk
 
 -   150 g mąki pszennej (ok 1 szklanka)
 -   2 jajka
@@ -8,7 +9,6 @@
 -   1/2 łyżeczki soli
 -   łyżeczka cukru trzcinowego (w wersji na słodko)  
     
-    ---
     
 
 1.  Mąkę wsypujemy do misy, dodajemy jajka (mogą być już rozbełtane) sól, cukier.
@@ -17,6 +17,13 @@
 4.  Rozgrzewamy patelnię na średnim ogniu, przecieramy ją odrobiną masła klarowanego.
 5.  Wylewamy chochlę ciasta i smażymy naleśniki po ok. 2-3 minuty z każdej strony, aż będą odpowiednio rumiane.
 6.  Naleśniki odsączamy z tłuszczu przy pomocy ręcznika papierowego.
+---
+## Whiteplate
+- 1 jajko
+- szklanka wody gazowanej
+- szklanka mleka
+- 1,5 szklanki mąki
+- pół łyżeczki soli
 
 ---
 
