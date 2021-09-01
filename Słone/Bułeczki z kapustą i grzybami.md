@@ -14,4 +14,13 @@
 Kapustę zalać i gotować przez ok 40 min. Dodać smażone grzyby z cebulą. Farsz maksymalnie odsączyć.
 Uformowane bułeczki przed pieczeniem posmarować jajkiem i posypać sezamem.
 
-#święta #wypieki #kapusta_kiszona #grzyby #pieczarki
+---
+
+Inny pomysł na farsz:
+- 1 szklanka ugotowanej brązowej lub zielonej soczewicy
+- 1 łyżka oleju
+- 200g pieczarek
+- 1 cebula
+- sól i pieprz
+
+#święta #wypieki #kapusta_kiszona #grzyby #pieczarki #soczewica 

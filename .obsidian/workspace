@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Słone/Bułeczki z kapustą i grzybami.md",
-            "mode": "preview"
+            "file": "Słone/Pizza od Huberta.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pizza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słone/Bułeczki z kapustą i grzybami.md",
+                "file": "Słone/Pizza od Huberta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "ec041b0009b6e6ba",
   "lastOpenFiles": [
-    "Słone/Bułeczki z kapustą i grzybami.md",
-    "Słone/Młode ziemniaki z bobem i masłem orzechowym.md",
-    "'Pączki' z twarogiem pieczone, bez drożdży.md",
+    "Słone/Pizza od Huberta.md",
+    "Słone/Zupa kalafiorowa.md",
+    "Słone/Zupa z cukinii.md",
+    "Słone/Zupa dyniowa.md",
     "Untitled.md",
-    "Słone/Burger z halloumi.md",
-    "Placuszki z owocami.md",
-    "Słodkie/Chałka.md",
-    "Słodkie/Blondie z ciecierzycy.md",
-    "Słone/Burgery z rukolą i serem pleśniowym.md",
-    "Cloud bread.md"
+    "Słone/Pierogi.md",
+    "Słone/Smalec z fasoli.md",
+    "Słone/Surówka Tysiąca Wysp.md",
+    "Słone/Placki z cukinii z fetą.md",
+    "Słodkie/Fasolowe brownie.md"
   ]
 }

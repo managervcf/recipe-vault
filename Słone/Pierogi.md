@@ -7,4 +7,4 @@
 
 Szczyptę nitek szafranu zalewam gorącą wodą. Jak ostygnie, dodaję jajko i łyżeczkę soli. Mieszam trzepaczką, dodaję mąkę i zagniatam.
 
-#pierogi #święta #niewypróbowane 
+#święta #niewypróbowane 

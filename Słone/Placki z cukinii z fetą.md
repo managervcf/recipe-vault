@@ -16,6 +16,8 @@
 -   Włożyć z powrotem do miski, dodać startą na tarce fetę, mąkę, jajko, posiekane zioła i szczypiorek jeśli używamy. Doprawić pieprzem oraz solą w razie potrzeby i wymieszać.
 -   Rozgrzać patelnię, natłuścić ją, nakładać porcje cukinii i smażyć przez ok. 3 minuty na złoty kolor, następnie przewrócić na drugą stronę i powtórzyć smażenie.
 
+Można podawać z #łosoś i serkiem czosnkowym.
+
 ![placki](https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/placki_z_cukinii_z_feta_01.jpg)
 
 #placki #cukinia #feta #lunchbox #niewypróbowane 
