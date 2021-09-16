@@ -8,5 +8,6 @@
 - miód
 - ocet balsamiczny
 
+Dobre z [[Dukkah]].
 
 #sałatka #figi #feta #awokado #rukola #lunchbox 

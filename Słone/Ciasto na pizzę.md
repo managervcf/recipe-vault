@@ -1,3 +1,5 @@
+#### Od Huberta:
+
 Pizza na dwie osoby, na dwie pizze o średnicy ok 20 cm:
 - woda 160ml
 - oliwa 1 łyżka
@@ -15,4 +17,4 @@ Przygotowanie:
 6. nagrzać piekarnik  do 200stC, 20min, z kamieniem
 7. uformować placki,  dodać składniki i do piekarnika na 20min
 
-#pizza #niewypróbowane 
+#pizza 

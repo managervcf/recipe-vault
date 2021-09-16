@@ -9,4 +9,6 @@
 - balsamic
 - sałata
 
+Dobre z [[Dukkah]].
+
 #halloumi #burger #grill #kanapki #awokado #burak #pesto

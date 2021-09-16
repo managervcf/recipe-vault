@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Słone/Pizza od Huberta.md",
-            "mode": "source"
+            "file": "Słone/Sambal.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pizza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słone/Pizza od Huberta.md",
+                "file": "Słone/Sambal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "ec041b0009b6e6ba",
   "lastOpenFiles": [
-    "Słone/Pizza od Huberta.md",
-    "Słone/Zupa kalafiorowa.md",
-    "Słone/Zupa z cukinii.md",
-    "Słone/Zupa dyniowa.md",
+    "Słone/Sambal.md",
+    "Słone/Avo smash.md",
+    "Dukkah.md",
+    "Słone/Sałatka z figami i fetą.md",
+    "Avo smash.md",
+    "Słone/Tosty z awokado i jajkiem.md",
+    "Słone/Burger z halloumi.md",
+    "Słone/Bułeczki z kapustą i grzybami.md",
     "Untitled.md",
-    "Słone/Pierogi.md",
-    "Słone/Smalec z fasoli.md",
-    "Słone/Surówka Tysiąca Wysp.md",
-    "Słone/Placki z cukinii z fetą.md",
-    "Słodkie/Fasolowe brownie.md"
+    "Słone/Pizza od Huberta.md"
   ]
 }

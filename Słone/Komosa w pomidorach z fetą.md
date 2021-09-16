@@ -2,6 +2,9 @@
 - pomidory z puszki
 - pieczone warzywa (np #batat, #papryka)
 - feta
+- pomidory suszone
+- oliwki
+- szpinak blanszowany z czosnkiem
 - awokado
 - [[Sambal]]
 
