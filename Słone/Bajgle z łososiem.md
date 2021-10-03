@@ -6,6 +6,8 @@ Składniki:
 - Philadelphia
 - czerwona cebula
 - ogórek
+- koperek
+- rukola/sałata
 
 Tagi:
 #kanapki #łosoś #Philadelphia #bajgle #pieczywo

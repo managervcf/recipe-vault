@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Słone/Sambal.md",
-            "mode": "preview"
+            "file": "Słodkie/Racuchy z jabłkami.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "avo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słone/Sambal.md",
+                "file": "Słodkie/Racuchy z jabłkami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ec041b0009b6e6ba",
   "lastOpenFiles": [
-    "Słone/Sambal.md",
-    "Słone/Avo smash.md",
-    "Dukkah.md",
-    "Słone/Sałatka z figami i fetą.md",
-    "Avo smash.md",
-    "Słone/Tosty z awokado i jajkiem.md",
-    "Słone/Burger z halloumi.md",
-    "Słone/Bułeczki z kapustą i grzybami.md",
     "Untitled.md",
-    "Słone/Pizza od Huberta.md"
+    "Słone/Avo smash.md",
+    "Słodkie/Naleśniki.md",
+    "Słodkie/Blondie z ciecierzycy.md",
+    "Słodkie/Fasolowe brownie.md",
+    "Słodkie/'Pączki' z twarogiem pieczone, bez drożdży.md",
+    "Słone/Krakersy z nasionek.md",
+    "Słone/Boczniaki.md",
+    "Słone/Bajgle z łososiem.md",
+    "Słone/Burger z halloumi.md"
   ]
 }
