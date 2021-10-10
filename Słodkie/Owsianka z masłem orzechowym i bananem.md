@@ -4,6 +4,6 @@
 - ok 600ml wody
 - 2 banany
 
-Zalać płatki na noc.
+Zalać płatki na noc. Rano enjoyować.
 
 #śniadanie #owies #banan #masło_orzechowe 

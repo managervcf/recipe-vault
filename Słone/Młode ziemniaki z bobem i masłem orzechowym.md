@@ -1,7 +1,7 @@
 # Składniki:
 -   500 g młodych ziemniaków
 -   500 g bobu
--   cebulka dymka
+-   cebulka dymka / szczypiorek
 -   1/4 papryczki chilli
 -   1/2 pęczka kolendry
 -   4 łyżki prażonej cebulki lub posiekanych orzeszków ziemnych
@@ -23,4 +23,4 @@
 
 ![bób](https://burczymiwbrzuchu.pl/wp-content/uploads/2021/06/2.jpg)
 
-#lunchbox #bób #ziemniaki #azjatyckie #sałatka #kolendra #masło_orzechowe #mleko_kokosowe #miód #niewypróbowane #lunchbox 
+#lunchbox #bób #ziemniaki #azjatyckie #sałatka #kolendra #masło_orzechowe #mleko_kokosowe #miód #niewypróbowane #lunchbox  #impreza #goście 

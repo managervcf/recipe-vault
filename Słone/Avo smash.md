@@ -9,4 +9,4 @@
 - [[Dukkah]]
 - świeże listki bazylii
 
-#kanapki #pieczywo #awokado #ser_kozi #burak 
+#kanapki #pieczywo #awokado #ser_kozi #burak #goście

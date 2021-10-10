@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Słodkie/Racuchy z jabłkami.md",
+            "file": "Słodkie/Spód sernika.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avo",
+                "query": "kapu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słodkie/Racuchy z jabłkami.md",
+                "file": "Słodkie/Spód sernika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ec041b0009b6e6ba",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Słone/Avo smash.md",
-    "Słodkie/Naleśniki.md",
-    "Słodkie/Blondie z ciecierzycy.md",
-    "Słodkie/Fasolowe brownie.md",
-    "Słodkie/'Pączki' z twarogiem pieczone, bez drożdży.md",
-    "Słone/Krakersy z nasionek.md",
-    "Słone/Boczniaki.md",
-    "Słone/Bajgle z łososiem.md",
-    "Słone/Burger z halloumi.md"
+    "Słodkie/Spód sernika.md",
+    "Słodkie/Sernik z marakują.md",
+    "Słodkie/Sernik z lemon curd.md",
+    "Słodkie/Racuchy z jabłkami.md",
+    "Słodkie/Placuszki owsiane.md",
+    "Słodkie/Placuszki bananowe.md",
+    "Słodkie/Placki owsiane z borówkami.md",
+    "Słodkie/Owsianka z masłem orzechowym i bananem.md",
+    "Słodkie/Chałka.md",
+    "Słodkie/Fasolowe brownie.md"
   ]
 }

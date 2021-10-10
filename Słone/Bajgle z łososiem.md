@@ -10,4 +10,4 @@ Składniki:
 - rukola/sałata
 
 Tagi:
-#kanapki #łosoś #Philadelphia #bajgle #pieczywo
+#kanapki #łosoś #Philadelphia #bajgle #pieczywo #goście 
