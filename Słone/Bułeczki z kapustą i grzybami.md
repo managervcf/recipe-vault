@@ -1,3 +1,4 @@
+Z przepisu wychodzi ok. 20 bułeczek.
 ## Farsz
 - gotowana kapusta kiszona 800g
 - grzyby/pieczarki 500g
@@ -13,6 +14,7 @@
 
 Kapustę zalać i gotować przez ok 40 min. Dodać smażone grzyby z cebulą. Farsz maksymalnie odsączyć.
 Uformowane bułeczki przed pieczeniem posmarować jajkiem i posypać sezamem.
+Piec ok. 20-25 min w 180*.
 
 ---
 

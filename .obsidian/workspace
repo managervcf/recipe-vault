@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec041b0009b6e6ba",
+        "id": "70b53a879eb900f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Słodkie/Spód sernika.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kapu",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słodkie/Spód sernika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec041b0009b6e6ba",
+  "active": "70b53a879eb900f8",
   "lastOpenFiles": [
-    "Słodkie/Spód sernika.md",
-    "Słodkie/Sernik z marakują.md",
-    "Słodkie/Sernik z lemon curd.md",
-    "Słodkie/Racuchy z jabłkami.md",
-    "Słodkie/Placuszki owsiane.md",
+    "Słone/Bułeczki z kapustą i grzybami.md",
+    "Słodkie/Naleśniki.md",
     "Słodkie/Placuszki bananowe.md",
-    "Słodkie/Placki owsiane z borówkami.md",
-    "Słodkie/Owsianka z masłem orzechowym i bananem.md",
-    "Słodkie/Chałka.md",
-    "Słodkie/Fasolowe brownie.md"
+    "Słodkie/Sernik z lemon curd.md",
+    "Słodkie/Szarlotka.md",
+    "Słone/Śledzie salsa.md",
+    "Słone/Pierogi z kimchi i ziemniakami.md",
+    "Słone/Pierogi pieczone z soczewicą i pieczarkami.md",
+    "Słone/Pasztet z zielonej soczewicy.md",
+    "Słone/Pasztet z ciecierzycy.md"
   ]
 }

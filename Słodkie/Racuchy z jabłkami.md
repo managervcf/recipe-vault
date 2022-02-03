@@ -4,7 +4,7 @@
 
 ROZCZYN
 
--   40 g świeżych drożdży
+-   40 g świeżych drożdży / 4 łyżeczki (12g) drożdży instant
 -   1/2 szklanki ciepłego mleka
 -   2 łyżki mąki pszennej
 -   1 łyżeczka cukru
