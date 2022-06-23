@@ -27,6 +27,22 @@ Klasyczne naleśniki ok. 10 sztuk
 
 ---
 
+## Kukurydziane
+ILOŚĆ: 10 – 12 sztuk
+
+- 1 1/2 szklanki mąki kukurydzianej
+- 1/3 szklanki mąki ziemniaczanej
+- 2 jajka rozmiar L
+- 250 ml mleka
+- 1/2 szklanki wody
+- 1/4 szklanki oleju np. rzepakowego
+- 1 łyżeczka miodu lub syropu klonowego (opcjonalnie)
+- szczypta soli
+
+PRZYGOTOWANIE:
+
+Wszystkie składniki przekładamy do miseczki (mąkę można przesiać do miski) i miksujemy lub szybko mieszamy trzepaczką, aż do uzyskania jednolitego ciasta. Zostawiamy na 1 godzinę, aby ciasto „odpoczęło” i smażymy na mocno rozgrzanej patelni z obu stron na złoty kolor.
+
 Dobre z:
 - [[Krem z nerkowców]] i berries.
 

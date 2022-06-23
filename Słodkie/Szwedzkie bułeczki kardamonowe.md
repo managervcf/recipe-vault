@@ -41,4 +41,4 @@ Składniki wymieszać.
 
 * Jeśli nie posiadasz golden syrupu, przygotuj syrop cukrowy przez zagotowanie 70 ml wody z 60 g cukru, do rozpuszczenia się cukru.
 
-#wypieki #niewypróbowane 
+#wypieki #niewypróbowane #pieczywo #deser #drożdżowe 

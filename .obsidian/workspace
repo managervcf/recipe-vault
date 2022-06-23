@@ -7,8 +7,11 @@
         "id": "70b53a879eb900f8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Słodkie/Naleśniki.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drożdż",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Słodkie/Naleśniki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +88,15 @@
   },
   "active": "70b53a879eb900f8",
   "lastOpenFiles": [
-    "Słone/Bułeczki z kapustą i grzybami.md",
     "Słodkie/Naleśniki.md",
-    "Słodkie/Placuszki bananowe.md",
-    "Słodkie/Sernik z lemon curd.md",
-    "Słodkie/Szarlotka.md",
-    "Słone/Śledzie salsa.md",
-    "Słone/Pierogi z kimchi i ziemniakami.md",
-    "Słone/Pierogi pieczone z soczewicą i pieczarkami.md",
-    "Słone/Pasztet z zielonej soczewicy.md",
-    "Słone/Pasztet z ciecierzycy.md"
+    "Słodkie/Cynamonowe wianuszki z rabarbarem.md",
+    "Słone/Pasta z makreli.md",
+    "Słone/Marynowane jajka Ajitsuke Tamago.md",
+    "Słone/Ramen.md",
+    "Słone/Bułeczki z kapustą i grzybami.md",
+    "Ajitsuke Tamago.md",
+    "Słodkie/Krem daktylowy.md",
+    "Słone/Sałatka ziemniaczana Tepy.md",
+    "Słone/Twarożek z nerkowców.md"
   ]
 }

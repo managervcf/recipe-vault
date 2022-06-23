@@ -38,4 +38,4 @@ Piekarnik rozgrzać do 190 stopni C, wstawić do niego chałki i piec przez oko�
 
 ![chałek](http://www.mysweetworld.pl/wp-content/uploads/2017/05/cha%C5%82ka-768x1152.jpg)
 
-#wypieki #pieczywo 
+#wypieki #pieczywo #śniadanie #drożdżowe 

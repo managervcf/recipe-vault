@@ -25,4 +25,4 @@ Inny pomysł na farsz:
 - 1 cebula
 - sól i pieprz
 
-#święta #wypieki #kapusta_kiszona #grzyby #pieczarki #soczewica 
+#święta #wypieki #kapusta_kiszona #grzyby #pieczarki #soczewica #drożdżowe 

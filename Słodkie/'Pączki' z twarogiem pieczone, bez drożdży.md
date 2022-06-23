@@ -13,4 +13,4 @@
 4. Ciasto zawinąć w rulonik i podzielić na 12 części. Każdy kawalek uformować w kulkę i wyciąc otwór w jej środku.
 5. Pączki posmarować żółtkiem z mlekiem i piec 25-30 minut w 180 stopniach.
 
-#wypieki #deser #niewypróbowane #twarożek #ser_biały 
+#wypieki #deser #niewypróbowane #twarożek #ser_biały #drożdżowe 
