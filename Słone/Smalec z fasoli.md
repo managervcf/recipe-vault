@@ -1,10 +1,9 @@
 ### SKŁADNIKI:
--   150 g białej fasoli suchej
--   1 cebula średnia
--   1 jabłko małe
--   2 łyżeczki oleju
--   1 łyżka majeranku suszonego
--   sól i pieprz do smaku
+-   200 g suchej białej fasoli (niecała szklanka) lub dwie puszki po 400 g
+-   2 duże cebule - 330 g
+-   1 średnie jabłko - 230 g
+-   6 łyżek oleju roślinnego
+-   przyprawy: łyżeczka majeranku, pół łyżeczki soli, spora szczypta pieprzu
 
 ### INSTRUKCJA
 
@@ -12,7 +11,7 @@
 -   Następnego dnia fasolę odsącz na sicie i obficie przelej zimną wodą.
 -   Przełóż fasolę do garnka, zalej zimną wodą i gotuj przez około 1-1,5 godziny - aż fasola zmięknie.
 -   Odcedź fasolę z wody i odstaw do wystudzenia.
--   Cebulę drobno posiekaj i podsmaż ją do zeszklenia na patelni z dodatkiem 2 łyżeczek oleju.
+-   Cebulę drobno posiekaj i podsmaż ją do zeszklenia na patelni z dodatkiem oleju.
 -   Jabłko obierz i zetrzyj na tarce o grubych oczkach.
 -   Dodaj jabłko do cebuli, dodaj majeranek i smaż kilka minut.
 -   Fasolę zmiksuj blenderem - tak aby zostały niewielkie kawałeczki.

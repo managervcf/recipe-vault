@@ -5,10 +5,10 @@ Z przepisu wychodzi ok. 20 bułeczek.
 - 2 cebule
 ## Bułeczki
 - 3 szklanki mąki
-- 9 łyżek oleju
+- 9 łyżek oleju / 150g masła
 - płaska łyżeczka soli
 - 2 łyżeczki cukru
-- 2,5 łyżeczki drożdży
+- 2,5 łyżeczki drożdży / 30g drożdży
 - szklanka jogurtu
 - 2 jajka
 

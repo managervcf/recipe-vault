@@ -17,13 +17,6 @@ Klasyczne naleśniki ok. 10 sztuk
 4.  Rozgrzewamy patelnię na średnim ogniu, przecieramy ją odrobiną masła klarowanego.
 5.  Wylewamy chochlę ciasta i smażymy naleśniki po ok. 2-3 minuty z każdej strony, aż będą odpowiednio rumiane.
 6.  Naleśniki odsączamy z tłuszczu przy pomocy ręcznika papierowego.
----
-## Whiteplate
-- 1 jajko
-- szklanka wody gazowanej
-- szklanka mleka
-- 1,5 szklanki mąki
-- pół łyżeczki soli
 
 ---
 
@@ -45,5 +38,7 @@ Wszystkie składniki przekładamy do miseczki (mąkę można przesiać do miski)
 
 Dobre z:
 - [[Krem z nerkowców]] i berries.
+- [[Spread tahini & dates]]
+- duszone jabłka
 
-#naleśniki 
+#naleśniki #placki 

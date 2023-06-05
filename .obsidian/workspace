@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Słodkie/Naleśniki.md",
-            "mode": "source",
+            "file": "Słone/Chleb maminy.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "ramen",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Słodkie/Naleśniki.md",
+                "file": "Słone/Chleb maminy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "70b53a879eb900f8",
   "lastOpenFiles": [
+    "Słone/Sałatka z figami i fetą.md",
+    "Słone/Salmon Rice Bowl.md",
+    "Słone/Młode ziemniaki z bobem i masłem orzechowym.md",
+    "Słone/Meksykańskie bataty.md",
+    "Słone/Komosa w pomidorach z fetą.md",
+    "Słone/Bułeczki z kapustą i grzybami.md",
+    "Słodkie/Szarlotka.md",
+    "Słodkie/Krem z nerkowców.md",
     "Słone/Chleb maminy.md",
-    "Słodkie/Kulki mocy 'solony karmel' z kokosem.md",
-    "Słodkie/Naleśniki.md",
-    "Słodkie/Naleśniki z kremem różanym, figami, miodem, pistacjami.md",
-    "Słodkie/Placuszki ze Skyru.md",
-    "Słodkie/Placuszki-serniczki z patelni.md",
-    "Słodkie/Ciasto migdałowe z borówkami.md",
-    "Słodkie/Cynamonowe wianuszki z rabarbarem.md",
-    "Słodkie/Ciasto jogurtowe.md",
-    "Słone/Zupa krem z buraków.md"
+    "Słone/Zupa dyniowa.md"
   ]
 }

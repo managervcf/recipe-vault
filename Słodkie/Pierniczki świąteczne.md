@@ -14,7 +14,7 @@
 
 1. Zemleć orzechy.
 2. Mąkę przesiać z proszkiem do pieczenia.
-3. Do mąki dodać orzechy, ukier wancukier puder, cilinowy, jajka, mleko, aromat, przyprawę korzenną i masło.
+3. Do mąki dodać orzechy, cukier waniliowy, cukier puder, jajka, mleko, aromat, przyprawę korzenną i masło.
 4. Ciasto zagnieść na jednolitą masę.
 5. Rozwałkować na grubość ok. 5mm.
 6. Pierniczki wylożyć na blaszce wyłożonej papierem do pieczenia.
