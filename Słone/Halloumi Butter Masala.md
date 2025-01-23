@@ -1,17 +1,8 @@
----
-title: "Halloumi Butter Masala"
-date: "2025-01-21"
-description: "Uproszczona wersja indyjskiego klasyka paneer butter masala, przygotowana z łatwo dostępnych składników. Kremowy, aromatyczny sos z delikatnym serem halloumi."
-categories: ["obiad", "wegetariańskie", "indyjskie"]
-tags: ["halloumi", "masala", "ser", "curry", "sos"]
-servings: 4
-prep_time: 15
-cook_time: 25
----
+## Halloumi Butter Masala
 
-Ostrzegam, to danie będziecie chcieli jeść i robić na okrągło. Bo tak szybkie, pysznie i kojące. Poznajcie Halloumi Butter Masala – uproszczoną wersję indyjskiego klasyka, paneer butter masala, ale ze składników, które kupcie w każdym sklepie.
+Uproszczona wersja indyjskiego klasyka paneer butter masala, przygotowana z łatwo dostępnych składników. Kremowy, aromatyczny sos z delikatnym serem halloumi.
 
-## Składniki
+### Składniki
 
 - 1 duża biała cebula, poszatkowana
 - 4 ząbki czosnku, cienko pokrojone
@@ -28,7 +19,7 @@ Ostrzegam, to danie będziecie chcieli jeść i robić na okrągło. Bo tak szyb
 - 2 kostki (2 x 225 g) halloumi, pokrojonego w dużą kostkę
 - 2 czubate łyżki (50 g) masła
 
-## Przygotowanie
+### Przygotowanie
 
 1. Rozgrzej na dużej patelni 2 łyżki oliwy extra virgin. Smaż na umiarkowanej mocy cebulę, czosnek, imbir i sól, często mieszając, aż się zeszklą, 4 – 5 minut.
 
@@ -40,10 +31,12 @@ Ostrzegam, to danie będziecie chcieli jeść i robić na okrągło. Bo tak szyb
 
 5. Podawaj z ryżem basmati lub chlebkami naan. Skropione odrobiną śmietanki!
 
-## Wskazówki
+### Wskazówki
 
 - Jeśli masz w zasięgu sklep z żywnością indyjską, możesz użyć sera paneer zamiast halloumi
 - Danie można posypać kozieradką dla dodatkowego aromatu
 - Zamiast śmietanki możesz użyć mleczka kokosowego dla wersji wegańskiej
 
 _Źródło: [Rozkoszny.pl](https://www.rozkoszny.pl/halloumi-butter-masala/)_
+
+#obiad #wegetariańskie #indyjskie #curry #sos #lunch
