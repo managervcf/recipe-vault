@@ -14,7 +14,7 @@ Uproszczona wersja indyjskiego klasyka paneer butter masala, przygotowana z łat
 - ½ łyżeczki płatków chili (opcjonalnie)
 - 6 łyżek (100 g) koncentratu pomidorowego
 - 1 łyżeczka cukru trzcinowego
-- ½ szklanki (125 ml) śmietanki 30% lub roślinnej, ewentualnie mleczka kokosowego + do podania
+- 50 g namoczonych w 100 ml wody nerkowów zblendowane lub ½ szklanki (125 ml) śmietanki 30% lub roślinnej, ewentualnie mleczka kokosowego + do podania
 - 1 szklanka (250 ml) wody
 - 2 kostki (2 x 225 g) halloumi, pokrojonego w dużą kostkę
 - 2 czubate łyżki (50 g) masła
